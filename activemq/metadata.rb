@@ -9,3 +9,7 @@ name 			 "activemq"
 %w{ubuntu debian redhat centos}.each do |os|
   supports os
 end
+
+%w{java}.each do |cb|
+  depends cb
+end
