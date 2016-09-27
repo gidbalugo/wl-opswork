@@ -49,4 +49,4 @@ default['java']['jdk']['7']['x86_64']['checksum'] = '411a204122c5e45876d6edae1a0
 
 # i586
 default['java']['jdk']['7']['i586']['url'] = 'http://download.oracle.com/otn-pub/java/jdk/7u2-b13/jdk-7u2-linux-i586.tar.gz'
-default['java']['jdk']['7']['i586']['checksum'] = '74faad48fef2c368276dbd1fd6c02520b0e9ebdcb1621916c1af345fc3ba65d1'
+default['java']['jdk']['7']['i586']['md5sum'] = '74faad48fef2c368276dbd1fd6c02520b0e9ebdcb1621916c1af345fc3ba65d1'
