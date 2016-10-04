@@ -4,9 +4,6 @@
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
 
-
-include_recipe "java"
-
 tmp = Chef::Config[:file_cache_path]
 version = node['activemq']['version']
 mirror = node['activemq']['mirror']
